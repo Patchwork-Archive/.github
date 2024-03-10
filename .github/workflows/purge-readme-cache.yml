@@ -9,7 +9,8 @@ jobs:
     steps:
       - uses: wow-actions/purge-readme@v1
         with:
-            repo: ${{ github.repository }}
-            branch: ${{ github.ref }}
-            paths: |
-              README.md
+          repo: Patchwork-Archive/.github
+          branch: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          paths: |
+            README.md
