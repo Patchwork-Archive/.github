@@ -17,5 +17,5 @@ jobs:
 
       - name: Run shell script
         run: |
-          chmod +x your_script.sh
+          chmod +x camo-purge.sh
           ./camo-purge.sh ${{ github.repository }}
