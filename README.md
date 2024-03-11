@@ -1,2 +1,2 @@
 # .github
-<img src="https://patchwork-og.vercel.app/api/og" width="90%">
+![Patchwork Stats Image](https://patchwork-og.vercel.app/api/og)

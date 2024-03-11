@@ -12,5 +12,4 @@ jobs:
             repo: ${{ github.repository }}
             branch: ${{ github.ref }}
             paths: |
-              profile/README.md
               README.md
