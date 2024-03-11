@@ -1,0 +1,15 @@
+name: Purge README
+on: 
+    push:
+    schedule:
+        - cron: '0 0 * * *'
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/purge-readme@v1
+        with:
+            repo: ${{ github.repository }}
+            branch: ${{ github.ref }}
+            paths: |
+              - profile/README.md
