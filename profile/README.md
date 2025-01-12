@@ -26,7 +26,7 @@ Currently we archive the following data for each video:
 # Support
 Patchwork Archive will forever remain freely accessible and without ads. I will always do my best to ensure things continue running smoothly, however due to the nature of archival I cannot make any additional guarantees.
 
-That said any donations will be put towards cost of CDN (serving content) and storage.
+That said any donations will be put towards cost of the growing cost of the CDN (serving content) and storage
 
 https://ko-fi.com/pinapelz
 
