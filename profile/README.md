@@ -23,8 +23,12 @@ Currently we archive the following data for each video:
 - All non-livechat and auto-generated captions as YouTube Timed Text
 
 
+# Support
+Patchwork Archive will forever remain freely accessible and without ads. I will always do my best to ensure things continue running smoothly, however due to the nature of archival I cannot make any additional guarantees.
+That said any donations will be put towards cost of CDN (serving content) and storage.
+https://ko-fi.com/pinapelz
+
+
 ## Links
 - [Patchwork Archive](https://patchwork.moekyun.me)
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) - VTuber Songs and Covers Radio
-
-https://ko-fi.com/pinapelz
