@@ -26,3 +26,5 @@ Currently we archive the following data for each video:
 ## Links
 - [Patchwork Archive](https://patchwork.moekyun.me)
 - [Patchwork Radio](https://patchwork.moekyun.me/radio) - VTuber Songs and Covers Radio
+
+https://ko-fi.com/pinapelz
