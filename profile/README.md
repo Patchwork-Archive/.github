@@ -33,4 +33,4 @@ https://ko-fi.com/pinapelz
 
 ## Links
 - [Patchwork Archive](https://patchwork.moekyun.me)
-- [Patchwork Radio](https://patchwork.moekyun.me/radio) - VTuber Songs and Covers Radio
+- [Patchwork Radio](https://radio.moekyun.moe) - VTuber Songs and Covers Radio
